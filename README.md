@@ -27,4 +27,4 @@ I used the Java programming language in this project because the object-oriented
 
 <img src="img/3.png" height = "400" width = "600">
 
-<img src="img/4.png" height = "400" width = "4000">
+<img src="img/4.png" height = "200" width = "4000">
